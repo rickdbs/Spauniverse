@@ -1,0 +1,17 @@
+{
+  "name": "spauniverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite": "^4.0.5",
+    "lite-server": "^2.6.1",
+    "server": "^1.0.38"
+  }
+}
